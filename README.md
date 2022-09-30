@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eslam Shafey</h1>
-<h3 align="center">I’m Ahmed, a developer, entrepreneur, co-founder and indie-hacker based in cairo, and quite active in the open source community. I’m currently building Linesbox, an employee lifecycle application. with more than 7 years of experience in the areas of software solutions, designing and implementing infrastructure solutions for small to medium level enterprises.</h3>
+<h3 align="center">I’m a developer and indie-hacker based in cairo, and quite active in the open source community. I’m currently building Linesbox, an employee lifecycle application. with more than 7 years of experience in the areas of software solutions, designing and implementing infrastructure solutions for small to medium level enterprises.</h3>
 
 - 🔭 I’m currently working on [rightmind](https://www.artalegypt.com/)
 
@@ -10,6 +10,8 @@
 - 👨‍💻 All of my projects are available at [github.com](github.com)
 
 - 📫 How to reach me **eslamshafey5056@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/eslam-shafey-1a52171b6/](https://www.linkedin.com/in/eslam-shafey-1a52171b6/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
