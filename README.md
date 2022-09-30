@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [open source](github.com)
 
-- 👨‍💻 All of my projects are available at [github.com](github.com)
+- 👨‍💻 All of my projects are available at [github.com](https://github.com/shafey5130)
 
 - 📫 How to reach me **eslamshafey5056@gmail.com**
 
